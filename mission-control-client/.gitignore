@@ -1,0 +1,31 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-error.log*
+
+# Build files
+build/
+dist/
+
+# Environment variables
+.env
+
+# Logs
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Testing
+coverage/
+
+# IDE/Editor directories
+.vscode/
+.idea/
+
+# Package lock (optional, but often recommended to keep)
+package-lock.json
+
+# Optional: Ignore React state
+# *.cache/
