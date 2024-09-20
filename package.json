@@ -1,0 +1,26 @@
+{
+  "name": "mission_control",
+  "version": "1.0.0",
+  "description": "A simple prototype of a mission control system that simulates sending commands from a control interface to a rover (the consumer).",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "jest"
+
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.0"
+  },
+  "devDependencies": {
+    "chai": "^5.1.1",
+    "jest": "^29.7.0",
+    "mocha": "^10.7.3",
+    "nodemon": "^2.0.12",
+    "supertest": "^7.0.0"
+  }
+}
