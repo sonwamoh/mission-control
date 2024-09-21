@@ -1,0 +1,27 @@
+# Node.js dependencies
+node_modules/
+
+# Logs
+npm-debug.log*
+*.log
+
+# Environment variables
+.env
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Testing
+coverage/
+
+# Build artifacts (optional)
+dist/
+build/
+
+# IDE/Editor directories
+.vscode/
+.idea/
+
+# Optional: lock file (good to keep tracked usually)
+# package-lock.json
